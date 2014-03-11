@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_settings" value="name:name;datatype:string,name:logo;datatype:string" />
+	<infoitem key="UD_parentDistrics" value="name:id;datatype:int,name:name;datatype:string" />
+	<infoitem key="UD_rsdistrics" value="name:name;datatype:int,name:parent;datatype:int,name:id;datatype:int" />
+	<infoitem key="UD_alldistricts" value="name:id;datatype:int,name:name;datatype:string,name:parent;datatype:int,name:maplat;datatype:string,name:maplong;datatype:string" />
+	<infoitem key="UD_rsstreets" value="name:districtid;datatype:int,name:name;datatype:int,name:id;datatype:int" />
+	<infoitem key="UD_parentDistricts" value="name:id;datatype:int,name:name;datatype:string,name:parent;datatype:int,name:maplat;datatype:string,name:maplong;datatype:string" />
+	<infoitem key="UD_topDistricts" value="name:id;datatype:int,name:name;datatype:string" />
+	<infoitem key="UD_rsdistricts" value="name:name;datatype:int,name:parent;datatype:int,name:maplat;datatype:int,name:maplong;datatype:int,name:id;datatype:int" />
+	<infoitem key="UD_topDistricts1" value="name:id;datatype:int,name:name;datatype:string" />
+	<infoitem key="UD_topDistricts2" value="name:id;datatype:int,name:name;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:id;datatype:int,name:name;datatype:string" />
+	<infoitem key="UD_rsusers" value="name:username;datatype:int,name:password;datatype:int,name:firstname;datatype:int,name:lastname;datatype:int,name:email;datatype:int,name:accesslevel;datatype:int,name:districtID;datatype:int,name:id;datatype:int" />
+	<infoitem key="UD_rsunits" value="name:uniqueID;datatype:int,name:name;datatype:int,name:districtID;datatype:int,name:street;datatype:int,name:address;datatype:int,name:latitude;datatype:int,name:longitude;datatype:int,name:mobile;datatype:int,name:renewdate;datatype:int,name:enabled;datatype:int,name:phasegroup;datatype:int,name:phasetimer;datatype:int,name:startphase;datatype:int,name:ontime;datatype:int,name:offtime;datatype:int,name:dimmer;datatype:int,name:lowercurrent;datatype:int,name:uppercurrent;datatype:int,name:lowervoltage;datatype:int,name:uppervoltage;datatype:int,name:comments;datatype:int,name:id;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:id;datatype:int,name:districtid;datatype:int,name:name;datatype:string" />
+</info>

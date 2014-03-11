@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_Session1" value="kt_login_id" />
+	<infoitem key="MM_Session_Count" value="5" />
+	<infoitem key="MM_Session2" value="kt_login_user" />
+	<infoitem key="MM_Session3" value="kt_login_level" />
+	<infoitem key="MM_Session4" value="kt_firstname" />
+	<infoitem key="MM_Session5" value="kt_districtID" />
+	<infoitem key="PageAccessControlMethod" value="useAccessList" />
+</info>

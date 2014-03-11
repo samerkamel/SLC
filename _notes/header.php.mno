@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_parentDistricts" value="name:id;datatype:int,name:name;datatype:string" />
+	<infoitem key="UD_childDistricts" value="name:id;datatype:int,name:name;datatype:string,name:parent;datatype:int,name:maplat;datatype:string,name:maplong;datatype:string" />
+	<infoitem key="UD_streets" value="name:id;datatype:int,name:districtid;datatype:int,name:name;datatype:string,name:maplat;datatype:string,name:maplong;datatype:string" />
+	<infoitem key="UD_allUnits" value="name:id;datatype:int,name:uniqueID;datatype:string,name:name;datatype:string,name:address;datatype:string,name:street;datatype:int,name:districtID;datatype:int,name:phasegroup;datatype:int,name:latitude;datatype:real,name:longitude;datatype:real,name:enabled;datatype:int,name:phasetimer;datatype:string,name:startphase;datatype:string,name:mobile;datatype:string,name:offtime;datatype:time,name:dimmer;datatype:real,name:uppercurrent;datatype:real,name:lowercurrent;datatype:real,name:uppervoltage;datatype:real,name:lowervoltage;datatype:real,name:comments;datatype:string,name:lastUpdate;datatype:timestamp,name:renewdate;datatype:date,name:ontime;datatype:time" />
+	<infoitem key="UD_allUsers" value="name:id;datatype:int,name:username;datatype:string,name:password;datatype:string,name:firstname;datatype:string,name:lastname;datatype:string,name:email;datatype:string,name:accesslevel;datatype:string,name:districtID;datatype:int,name:loginattempt;datatype:string,name:disabledate;datatype:string" />
+</info>

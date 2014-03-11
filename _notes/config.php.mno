@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_unitConfig" value="name:id;datatype:int,name:uniqueID;datatype:string,name:name;datatype:string,name:address;datatype:string,name:street;datatype:int,name:districtID;datatype:int,name:phasegroup;datatype:int,name:latitude;datatype:real,name:longitude;datatype:real,name:enabled;datatype:int,name:phasetimer;datatype:string,name:startphase;datatype:string,name:mobile;datatype:string,name:offtime;datatype:time,name:dimmer;datatype:real,name:uppercurrent;datatype:real,name:lowercurrent;datatype:real,name:uppervoltage;datatype:real,name:lowervoltage;datatype:real,name:comments;datatype:string,name:lastUpdate;datatype:timestamp,name:renewdate;datatype:date,name:ontime;datatype:time" />
+</info>
